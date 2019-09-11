@@ -1,0 +1,67 @@
+
+ ul li {
+    display: inline;
+   
+    font-family: monospace;
+    font-size: 20px;
+        
+}
+
+li a{
+    text-decoration: none;
+    color: whitesmoke;
+
+
+}
+
+
+.head1{
+    position: fixed;
+    background-color: rgb(146, 151, 146);
+    color: white;
+    
+}
+
+
+
+h3{
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.footer1 {
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(146, 151, 146);
+  color: whitesmoke;
+  text-align: center;
+  
+}
+
+#content-white
+{
+    color: whitesmoke;
+}
+#font-size-20
+{
+    font-size: 20px;
+}
+.text-align-center
+{
+    text-align: center;
+}
+.height-100px
+{
+    height: 100px;
+}
+#back-color
+{
+    background-color: white;
+}
+#x{
+    font-family: 'Modern Antiqua';
+    font-size: 26px;
+    color: red;
+}
+
+
